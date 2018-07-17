@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 069C-A99F
+
+ R‚pertoire de C:\Users\Tahar\Desktop\GitProject
+
+17/07/2018  14:56    <DIR>          .
+17/07/2018  14:56    <DIR>          ..
+17/07/2018  14:56                 0 Test.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  35ÿ932ÿ430ÿ336 octets libres
